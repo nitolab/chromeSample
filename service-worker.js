@@ -3,7 +3,7 @@
 self.addEventListener('push', function(event) {
   console.log('Received a push message', event);
 
-  var title = 'nittori-n.';
+  var title = 'nittori-n!?.';
   var body = 'We have received a push message.';
   var icon = '/chromeSample/images/icon-192x192.png';
   var tag = 'simple-push-demo-notification-tag';
