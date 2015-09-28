@@ -3,9 +3,9 @@
 self.addEventListener('push', function(event) {
   console.log('Received a push message', event);
 
-  var title = 'Yay a message.';
+  var title = 'nittori-.';
   var body = 'We have received a push message.';
-  var icon = '/images/icon-192x192.png';
+  var icon = 'chromeSample/images/a179c6e53261befa629c5aed2760599b.jpg';
   var tag = 'simple-push-demo-notification-tag';
 
   event.waitUntil(
