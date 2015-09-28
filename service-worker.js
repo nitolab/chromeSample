@@ -3,8 +3,8 @@
 self.addEventListener('push', function(event) {
   console.log('Received a push message', event);
 
-  var title = 'famas.';
-  var body = 'nitori.';
+  var title = 'yay message.';
+  var body = 'かがくのちからってすげー！';
   var icon = '/chromeSample/images/icon-192x192.png';
   var tag = 'simple-push-demo-notification-tag';
 
