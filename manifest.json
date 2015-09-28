@@ -1,9 +1,9 @@
 {
-  "name": "Push Demo",
+  "name": "Push Demonstration",
   "short_name": "Push Demo",
   "icons": [{
-        "src": "images/icon-192x192.png",
-        "sizes": "192x192"
+        "src": "images/a179c6e53261befa629c5aed2760599b.jpg",
+        "sizes": "882x937"
       }],
   "start_url": "./index.html?homescreen=1",
   "display": "standalone",
